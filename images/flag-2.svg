@@ -1,18 +1,10 @@
-<svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3293_3660)">
-<rect y="0.619995" width="48" height="48" rx="24" fill="white"/>
-<mask id="mask0_3293_3660" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-9" y="0" width="65" height="49">
-<path d="M-8.17334 0.619995H55.6933V48.52H-8.17334V0.619995Z" fill="white"/>
+<svg width="61" height="61" viewBox="0 0 61 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_481_1154" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="61" height="61">
+<path d="M0.435059 30.3562C0.435059 46.9247 13.99 60.3562 30.5585 60.3562C47.1271 60.3562 60.682 46.9247 60.682 30.3562C60.682 13.7877 47.1271 0.356201 30.5585 0.356201C13.99 0.356201 0.435059 13.7877 0.435059 30.3562Z" fill="white"/>
 </mask>
-<g mask="url(#mask0_3293_3660)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M35.735 0.619995H55.6933V48.52H35.735V0.619995Z" fill="#FF8C1A"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M-8.17334 0.619995H15.7767V48.52H-8.17334V0.619995Z" fill="#5EAA22"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M11.785 0.619995H35.735V48.52H11.785V0.619995Z" fill="#F7FCFF"/>
+<g mask="url(#mask0_481_1154)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.435059 30.3562C0.435059 13.7876 13.99 0.356201 30.5585 0.356201V0.356201C47.127 0.356201 60.6819 13.7876 60.6819 30.3562V30.3562C60.6819 46.9247 47.127 60.3562 30.5585 60.3562V60.3562C13.99 60.3562 0.435059 46.9247 0.435059 30.3562V30.3562Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.435059 10.3958C0.435059 4.85107 4.92993 0.356201 10.4746 0.356201V0.356201C16.0193 0.356201 20.5142 4.85107 20.5142 10.3958V50.3166C20.5142 55.8613 16.0193 60.3562 10.4746 60.3562V60.3562C4.92993 60.3562 0.435059 55.8613 0.435059 50.3166V10.3958Z" fill="#009246"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.6025 10.3958C40.6025 4.85107 45.0974 0.356201 50.6421 0.356201V0.356201C56.1868 0.356201 60.6817 4.85108 60.6817 10.3958V50.3166C60.6817 55.8613 56.1868 60.3562 50.6421 60.3562V60.3562C45.0974 60.3562 40.6025 55.8613 40.6025 50.3166V10.3958Z" fill="#CE2B37"/>
 </g>
-</g>
-<defs>
-<clipPath id="clip0_3293_3660">
-<rect y="0.619995" width="48" height="48" rx="24" fill="white"/>
-</clipPath>
-</defs>
 </svg>

@@ -128,20 +128,25 @@ border: 0;
     margin: 24px auto 0;
     gap: 50px;
     margin-bottom: 32px;
+    flex-wrap: wrap;
   }
   .philip_card {
-    width: 50%;
-    overflow: hidden;
-    border: 3px solid #30ab0d;
+      width: 47%;
+      overflow: hidden;
+      border: 3px solid #30ab0d;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 32px;
   }
-  
   .philip_card img {
     aspect-ratio: 16 / 9;
     object-fit: cover;
     width: 100%;
   }
   .philip_card h3 {
-    margin-top: 41px;
+    margin-top: 40px;
     margin-bottom: 24px;
     font-family: Gilroy-Bold;
     font-weight: 400;
@@ -154,7 +159,6 @@ border: 0;
   
   .philip-card-txt {
     padding: 24px 14.5px 14.5px 14.5px;
-    height: 47%;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -630,7 +634,16 @@ border: 0;
   .phillippines-testimonial-main .slick-prev {
     left: calc(100% - 115px) !important;
   }
-  
+  .content-box ul {
+    padding: 24px 0 0 16px;
+}
+.content-box ul li {
+    color: #fff;
+    font-size: 16px;
+    padding-bottom: 15px;
+    line-height: 20px;
+}
+
   @media screen and (min-width: 1300px) {
     section.phillippines-testimonial-main {
       background-size: cover;
